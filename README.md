@@ -1,4 +1,4 @@
 # Prueba-
-<br> pa k lees esto </br>
-<br> me llamo david y tengo 18 años </br>
+<br> <b> Estudio en el Miguel Herrero Pereda </b> </br>
+<br> <b> me llamo david y tengo 18 años <b> </br>
 <br> me gusta la musica </br>
